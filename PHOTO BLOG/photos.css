@@ -1,0 +1,21 @@
+img {
+	width: 30%;
+	margin: calc(10%/6);
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+}
+img:hover {
+	filter: none;
+	-webkit-filter: grayscale(0);
+}
+nav {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+	color: #100720;
+	white-space: inherit;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	margin-left: calc(10%/6);
+	padding: 20px 0;
+}
