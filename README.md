@@ -1,3 +1,3 @@
 # Photo-Blog
+A simple HTML Photo Site using HTML & CSS
 
-Simple Photo Blog HTML Site 
